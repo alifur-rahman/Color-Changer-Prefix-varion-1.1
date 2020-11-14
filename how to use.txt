@@ -7,3 +7,4 @@
 6. copy the color-changer HTML and past on project HTML;
 7. ".add-color" use this class in the html which content want to change color;
 8. ".add-bg-color" use this class in the html whice area want to change background color;
+9. ".add-strk-color" use this class in the html whice SVG stroke color you want to change;
