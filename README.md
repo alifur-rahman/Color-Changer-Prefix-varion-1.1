@@ -1,0 +1,12 @@
+# Color-Changer-Prefix-varsion 1.1
+This is a Jquery Plugins. made by Alifur Rahman. you can use this for change 'color' 'background-color''stroke-color'.
+					how to use
+1. link the fontawsome cdn.;
+2. link the jquery JS;
+3. link the color-changer CSS;
+4. link the color-chager JS;
+5. link the fonts Battalion;
+6. copy the color-changer HTML and past on project HTML;
+7. ".add-color" use this class in the html which content want to change color;
+8. ".add-bg-color" use this class in the html whice area want to change background color;
+9. ".add-strk-color" use this class in the html whice SVG stroke color you want to change;
